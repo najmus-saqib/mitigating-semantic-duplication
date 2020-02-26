@@ -1,4 +1,4 @@
-# mitigating-semantic-duplication
+# Mitigating duplicity of questions using ensemble learning: A quora questions case study.ipynb
 Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question. Quora values canonical questions because they provide a better experience to active seekers and writers, and offer more value to both of these groups in the long term.
 
 1. Problem Statement 
